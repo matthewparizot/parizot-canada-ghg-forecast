@@ -1,4 +1,4 @@
-# parizot-canada-ghg-forecast
+# Detour to Net Zero: A forecast of Canadian Greenhouse Gas Emissions Using RNN
 
 As the climate crisis continues to worsen, with countries experiencing record high temperatures and increasing numbers of natural disasters, Canada has joined numerous other countries in proposing a ‘Net Zero’ commitment, pledging to reduce greenhouse gas (GHG) emissions 40-45% from 2005 levels by 2030 and achieving close to zero GHG emissions by 2050. 
 
